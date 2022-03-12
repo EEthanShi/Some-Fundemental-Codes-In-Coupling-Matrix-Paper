@@ -1,2 +1,2 @@
-# Some-experiments-in-Coupling-matrix-paper
-This document contains some experiments within coupling matrix manifold assist optimal transport problems 
+# Some-Fundemental-Code-For-Coupling-Matrix-Paper
+This document contains some fundemental within coupling matrix manifold assist optimal transport problems 
